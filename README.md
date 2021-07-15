@@ -1,2 +1,2 @@
-# Siskom2014
+# Excel-Command
 Latihan logika _(command)_ pada Microsoft Excel.
